@@ -7,7 +7,8 @@
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
 ```
 
-windows服务器：
+windows服务器
+```bash
 解压缩后复制到服务器，运行minerProxy_303然后用浏览器访问 “公网ip:18888”；密码默认:123456789  进入管理界面 
 
 设置你的转发矿池/端口；可选择“不抽水”(自用) 或者“抽水”(分担服务器费用)；
@@ -18,6 +19,7 @@ windows服务器：
 
 
 （如果遇到打不开管理界面，请开放服务器对应的端口）
+```
 
 
 
