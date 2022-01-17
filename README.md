@@ -1,7 +1,9 @@
 # minerProxy
-矿工交流 TG电报群： https://t.me/MinerProxy_eth
+矿工交流 TG电报群：
+```bash
+https://t.me/MinerProxy_eth
 ![img.png](img.png)
-
+```
 新增加linux服务器一键安装脚本
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
