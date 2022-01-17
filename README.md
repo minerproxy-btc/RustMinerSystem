@@ -2,8 +2,10 @@
 矿工交流 TG电报群： https://t.me/MinerProxy_eth
 ![img.png](img.png)
 
+新增加linux服务器一键安装脚本：
+bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
 
-
+windows服务器：
 解压缩后复制到服务器，运行minerProxy_303然后用浏览器访问 “公网ip:18888”；密码默认:123456789  进入管理界面 
 
 设置你的转发矿池/端口；可选择“不抽水”(自用) 或者“抽水”(分担服务器费用)；
