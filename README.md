@@ -3,6 +3,7 @@
 ![img_5.png](img_5.png)
 冒充原作者的加料群
 ![img_6.png](img_6.png)
+![img_7.png](img_7.png)
 
 
 新增加linux服务器一键安装脚本
