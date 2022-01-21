@@ -4,7 +4,7 @@
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
 ```
-![img444.png](img444.png)
+![IMG444.png](IMG444.png)
 
 矿工交流 TG电报群：
 https://t.me/MinerProxy_eth
