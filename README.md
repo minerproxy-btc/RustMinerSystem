@@ -1,4 +1,6 @@
 # minerProxy
+[img444.JPG](img444.JPG)又一个冒充二次元
+
 新增加linux服务器一键安装脚本
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
