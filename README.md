@@ -1,5 +1,5 @@
 # minerProxy
-[img444.JPG](img444.JPG)又一个冒充二次元
+[IMG444.JPG](IMG444.JPG)又一个冒充二次元
 
 新增加linux服务器一键安装脚本
 ```bash
