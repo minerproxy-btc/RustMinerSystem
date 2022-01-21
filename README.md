@@ -4,6 +4,7 @@
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
 ```
+我尊重作者，图里这个才是冒充作者，暗抽100%的人！请注意分辨
 ![img_5.png](img_5.png)
 
 矿工交流 TG电报群：
