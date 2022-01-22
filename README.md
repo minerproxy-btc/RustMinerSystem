@@ -9,8 +9,8 @@
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
 ```
-
-
+纯转发模式使用后算力截图，算力几乎无损耗。
+![img_9.png](img_9.png)
 矿工交流 TG电报群：
 https://t.me/MinerProxy_eth
 ![img.png](img.png)
