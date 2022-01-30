@@ -3,7 +3,9 @@
 ![img_5.png](img_5.png)
 
 安装好之后记得改掉默认的18888访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
-MinerProxy-Eth里的config，不是root目录下的
+MinerProxy-Eth里的config，不是root目录下的；
+
+如果之前被攻击过，记得改完18888之后，还要改下服务器默认的管理端口！！
 
 新增加linux服务器一键安装脚本
 ```bash
