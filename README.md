@@ -4,6 +4,7 @@
 
 安装好之后记得改掉默认的访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
 MinerProxy-Eth里的config，不是root目录下的；
+linux改好端口之后输入supervisorctl restart all 后生效！
 
 如果之前被攻击过，记得改完web端口之后，还要改下服务器默认的管理端口！！
 
