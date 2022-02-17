@@ -7,7 +7,6 @@ MinerProxy-Eth里的config，不是root目录下的；
 linux改好端口之后输入supervisorctl restart all 后生效！
 
 
-
 新增加linux服务器一键安装脚本
 ```bash
 bash <(curl -s -L https://ddl.ink/CxDB)
@@ -34,7 +33,7 @@ windows服务器
 （如果遇到打不开管理界面，请开放服务器对应的端口）
 ```
 
-
+安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
 
 
 # Liunx-手动安装
