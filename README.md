@@ -3,7 +3,7 @@
 ![img_5.png](img_5.png)
 
 安装好之后记得改掉默认的访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
-MinerProxy-Eth里的config，不是root目录下的；
+MinerProxy-Eth里的config；
 linux改好端口之后输入supervisorctl restart all 后生效！
 安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
 
@@ -11,6 +11,9 @@ linux改好端口之后输入supervisorctl restart all 后生效！
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
 ```
+自带守护，开启最大连接数
+安装后输入supervisorctl restart all 回车生效！
+
 纯转发模式使用后算力截图，算力几乎无损耗。
 ![img_9.png](img_9.png)
 矿工交流 TG电报群：
