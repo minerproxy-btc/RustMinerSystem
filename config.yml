@@ -1,5 +1,5 @@
 host: 0.0.0.0
-port: 13333
+port: 18888
 token: 123456789
 webserver: true
 server: []
