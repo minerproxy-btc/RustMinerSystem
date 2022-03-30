@@ -17,7 +17,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth
 纯转发模式使用后算力截图，算力几乎无损耗。
 ![img_9.png](img_9.png)
 
-任何问题请加TG群： https://t.me/MinerProxy_eth
 
 windows服务器
 ```bash
@@ -33,7 +32,7 @@ windows服务器
 （如果遇到打不开管理界面，请开放服务器对应的端口）
 ```
 
-安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
+任何问题请加TG群： https://t.me/MinerProxy_eth
 
 
 # Liunx-手动安装
