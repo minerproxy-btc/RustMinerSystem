@@ -1,7 +1,7 @@
 # minerProxy
 我尊重作者，只是降低了作者抽水；图里这个才是冒充作者，暗抽加料的人！请注意分辨
 
-![img_5.png](img_5.png)
+![img_7.png](img_7.png)
 
 安装好之后记得改掉默认的访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
 MinerProxy-Eth里的config；可以下载一个FinalShell控制台，更改linux目录更方便
