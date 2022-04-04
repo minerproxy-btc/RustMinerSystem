@@ -8,6 +8,9 @@ MinerProxy-Eth里的config；可以下载一个FinalShell控制台，更改linux
 linux改好端口之后输入supervisorctl restart all 后生效！
 安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
 
+部分机房封禁e池5555等矿池常见端口；受到影响的请自行更换e池tcp 4444，14444端口进行转发
+
+
 新增加linux服务器一键安装脚本
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
