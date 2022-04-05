@@ -1,9 +1,6 @@
 # minerProxy
 部分机房封禁e池5555等矿池常见端口；受到影响的请自行更换e池tcp 4444，14444端口进行转发
 
-我尊重作者，只是降低了作者抽水；图里这个才是冒充作者，暗抽加料的人！请注意分辨
-
-![img_7.png](img_7.png)
 
 安装好之后记得改掉默认的访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
 MinerProxy-Eth里的config；可以下载一个FinalShell控制台，更改linux目录更方便
