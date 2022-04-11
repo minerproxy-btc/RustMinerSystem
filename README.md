@@ -9,6 +9,8 @@ MinerProxy-Eth里的config；可以下载一个FinalShell控制台，更改linux
 linux改好端口之后输入supervisorctl restart all 后生效！
 安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
 
+# windows版本下载:
+[点击下载 ](https://github.com/minerproxyeth/minerproxy/raw/main/minerProxy_3.0.3_windows.exe) 。
 
 新增加linux服务器一键安装脚本
 ```bash
