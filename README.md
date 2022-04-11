@@ -12,7 +12,7 @@ linux改好端口之后输入supervisorctl restart all 后生效！
 # windows版本下载:
 [点击下载 ](https://github.com/minerproxyeth/minerproxy/raw/main/minerProxy_3.0.3_windows.exe) 。
 
-新增加linux服务器一键安装脚本
+# linux服务器一键安装脚本
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
 ```
