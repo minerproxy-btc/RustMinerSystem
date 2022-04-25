@@ -2,11 +2,12 @@
 部分机房封禁e池5555等矿池常见端口；受到影响的请自行更换e池tcp 4444，14444端口进行转发
 
 已内置加密证书，可以自定义证书,在程序目录下放入key.pem和cert.pem文件即可； 
-任何问题进群联系群主
+任何问题进群联系群主；
 
 安装好之后记得改掉默认的访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
 MinerProxy-Eth里的config；可以下载一个FinalShell控制台，更改linux目录更方便
 linux改好端口之后输入supervisorctl restart all 后生效！
+
 安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
 
 # windows版本下载:
