@@ -11,9 +11,7 @@ linux改好端口之后输入supervisorctl restart all 后生效！
 安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
 
 # windows版本下载:
-[点击下载 ](https://github.com/minerproxyeth/minerproxy/raw/main/minerProxy_3.0.3_windows.exe) 。
-[点击下载 ](https://github.com/minerproxyeth/minerproxy/raw/main/win%E5%AE%88%E6%8A%A4.bat) 。
-两个文件放在一个目录，运行win守护
+点击左侧Code，然后选Download ZIP即可！
 
 # linux服务器一键安装脚本
 ```bash
