@@ -50,4 +50,3 @@ nohup ./minerProxy_3.0.3_linux & (后台运行，注意：& 也需要复制，�
 tail -f nohup.out (后台运行时查看)
 ```
 
-![img_4.png](img_4.png)
