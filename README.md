@@ -10,6 +10,8 @@ linux改好端口之后输入supervisorctl restart all 后生效！
 
 安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
 
+装过其他同类软件，使用本软件前，请一定重做系统！以防后门
+
 # windows版本下载:
 点击左侧Code，然后选Download ZIP即可！
 
