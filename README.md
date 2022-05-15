@@ -8,7 +8,7 @@
 MinerProxy-Eth里的config；可以下载一个FinalShell控制台，更改linux目录更方便
 linux改好端口之后输入supervisorctl restart all 后生效！
 
-安装完成后，请立即修改默认密码，以防别有用心之人，扫描端口偷偷登录！！！ 
+转发使用的地址，请一定使用官方地址；以避免被二次暗抽
 
 装过其他同类软件，使用本软件前，请一定重做系统！以防后门
 
