@@ -5,7 +5,7 @@
 任何问题进群联系群主；
 
 安装好之后记得改掉默认的访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
-MinerProxy-Eth里的config；可以下载一个FinalShell控制台，更改linux目录更方便
+MinerProxy-Eth里的config（找不到就刷新一下）；可以下载一个FinalShell控制台，更改linux目录更方便
 
 linux改好端口之后输入supervisorctl restart all后生效！
 
