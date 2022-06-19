@@ -1,6 +1,6 @@
 # 安装完成后，请立即修改程序端口和密码，以防别有用心之人，扫描端口偷偷登录！！
 
-布局小币种，BTC LTC BCH CFX RVN ERG SERO HNS KDA BEAM CKB DCR STC DASH ZEC ZEN XMR 无损转发可以联系：https://t.me/ethssltcp
+布局小币种，BTC LTC BCH CFX RVN ERG SERO HNS KDA BEAM CKB DCR STC DASH ZEC ZEN XMR 无损转发，专业机无损抽水；可以联系：https://t.me/ethssltcp
 
 已内置加密证书，可以自定义证书,在程序目录下放入key.pem和cert.pem文件即可； 
 任何问题进群联系群主；
