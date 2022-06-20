@@ -42,7 +42,6 @@ windows服务器
 （如果遇到打不开管理界面，请开放服务器对应的端口）
 ```
 
-任何问题请加TG群： https://t.me/MinerProxy_eth
 
 
 # Liunx-手动安装
