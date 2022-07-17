@@ -2,7 +2,7 @@
 
 
 已内置加密证书，可以自定义证书,在程序目录下放入key.pem和cert.pem文件即可； 
-任何问题进群联系群主；
+任何问题可联系 https://t.me/xxx598 ；
 
 安装好之后记得改掉默认的访问端口；文件名是config.yml；用记事本打开更换！linux要改etc目录下
 MinerProxy-Eth里的config（找不到就刷新一下）；可以下载一个FinalShell控制台，更改linux目录更方便
