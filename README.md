@@ -50,6 +50,8 @@ High-performance, next-generation operation and maintenance experience, which is
 
 Telegram：<a href="https://t.me/RustMinerSystem">https://t.me/RustMinerSystem</a>
 
+Telegram：<a href="https://t.me/+Qu6RroXYb3IxZGM1">https://t.me/+Qu6RroXYb3IxZGM1</a>
+
 Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOTVl</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
