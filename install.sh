@@ -1,12 +1,7 @@
 #!/bin/bash
 
-<<<<<<< Updated upstream
 VERSION="2.0.4"
 DOWNLOAD_HOST="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/linux"
-=======
-VERSION="2.0.4"
-DOWNLOAD_HOST="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/linux"
->>>>>>> Stashed changes
 ORIGIN_EXEC="rustminersystem-${VERSION}"
 
 SERVICE_NAME="rustservice"
