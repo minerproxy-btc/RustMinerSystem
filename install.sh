@@ -1,8 +1,8 @@
 #!/bin/bash
 
 <<<<<<< Updated upstream
-VERSION="2.0.5"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/linux"
+VERSION="2.0.4"
+DOWNLOAD_HOST="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/linux"
 =======
 VERSION="2.0.4"
 DOWNLOAD_HOST="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/linux"
