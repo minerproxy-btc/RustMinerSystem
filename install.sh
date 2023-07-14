@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="2.0.4"
+VERSION="2.0.5"
 DOWNLOAD_HOST="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/linux"
 ORIGIN_EXEC="rustminersystem-${VERSION}"
 
@@ -355,6 +355,11 @@ ISSUE() {
     echo "1.0.2"
     echo "1.0.3"
     echo "2.0.0"
+    echo "2.0.1"
+    echo "2.0.2"
+    echo "2.0.3"
+    echo "2.0.4"
+    echo "2.0.5"
 }
 
 filterResult() {
