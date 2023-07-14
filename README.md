@@ -322,7 +322,7 @@ Release of internal test version
 
 # Customize the version description
 
-1. Join a chat group <a href="https://t.me/rustkt">https://t.me/rustkt</a>
+1. Join a chat group <a href="https://t.me/RustMinerSystem">https://t.me/RustMinerSystem</a>
 2. Please organize the following format data and send it to the group master or administrator:
 
 Example:  
