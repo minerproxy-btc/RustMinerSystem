@@ -167,6 +167,51 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.0.0
+Reconfigured the pumping algorithm, and now all currencies can pump accurately to the thousandth digit 
+ 
+In loss-prone mining pools and machines, it is now possible to ensure that the end customer does not reduce computing power more than the set percentage 
+ 
+The e9pro is perfectly optimized 
+ 
+Refactored the interface, added wallet list, device list filtering criteria and so on 
+ 
+Added the setting of single miner pumping 
+ 
+Optimized the power statistics, now the power statistics are no longer messy 
+ 
+Optimized invalid
+
+2.1.0
+Completely solve the jam
+
+2.0.9
+Solve the stuck problem  
+
+Optimal pumping
+
+2.0.8
+Two pumping algorithms are combined  
+
+Fix suspended animation again
+
+2.0.7 
+Fixed an issue with version 6 suspended animation 
+ 
+The problem of insufficient computing power in equilibrium mode is optimized
+
+2.0.6
+Optimized power compensation, the power compensation option is now hidden, and power is allocated to all miners by default 
+ 
+Optimized E9pro, now all mining pools can run full E9pro, and the calculation of e9pro in rust is accurate and consistent with the mining pool 
+ 
+Added a pumping mode 
+ 
+Added a mode for connecting mine pools 
+ 
+Optimized mining machine with high computing power
+
+
 2.0.5
 
 [Important Update] Fixed a bug where RUST was suspended in windows 
