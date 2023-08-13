@@ -166,6 +166,12 @@ RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
 
 # 更新日志
 ```
+3.2.2
+Fixed kas slow burst memory bug
+
+3.2.1
+Fixed a high invalidity bug caused by the same wallet without the miner name configured
+
 3.2.0
 增加了对k1矿池的支持
 

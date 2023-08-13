@@ -167,6 +167,12 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.2.2
+Fixed kas slow burst memory bug
+
+3.2.1
+Fixed a high invalidity bug caused by the same wallet without the miner name configured
+
 3.2.0
 Added support for k1 mining pools 
  

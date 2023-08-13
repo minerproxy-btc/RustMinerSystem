@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.2.0"
+VERSION="3.2.2"
 DOWNLOAD_HOST="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/linux"
 ORIGIN_EXEC="rustminersystem-${VERSION}"
 
@@ -368,6 +368,7 @@ ISSUE() {
     echo "3.0.0"
     echo "3.1.0"
     echo "3.2.0"
+    echo "3.2.2"
 }
 
 filterResult() {
