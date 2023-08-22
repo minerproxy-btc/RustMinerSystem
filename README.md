@@ -167,6 +167,23 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.3.0
+RMS client release
+
+Fixed a bug where configuration could not be imported
+
+Added program update log
+
+Fixed a bug where hot update ratio would not take effect
+
+Fixed a bug where setting the mining machine pumping alone would not take effect
+
+Improved the classification display of the port list and added the display of all ports
+
+Greatly optimize the ltc pumping accuracy, improve the calculation and pumping accuracy of other currencies
+
+Fixed an issue where some etc models could not connect
+
 3.2.4
 Significantly improve the accuracy of power statistics and pumping for all currently supported currencies
 
