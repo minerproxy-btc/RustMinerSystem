@@ -167,6 +167,23 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.4.0
+Rebuilt the computing power statistics, and now the statistical accuracy of computing power in rust has been greatly improved 
+ 
+Thanks to the reconstructed computing power statistics, btc's pumping is now more accurate 
+ 
+Added replacement wallet function 
+ 
+The performance of KA0 1 2 3 3l in the fish pond is optimized, and now the fish pond can also draw a relatively large amount of computing power 
+ 
+Added OCTA support 
+ 
+Added KDA support 
+ 
+Equipped with cfx computing unit 
+ 
+ethash algorithm currency, such as octa, etc., mining machine currency of different protocols work on the same port, and the computing power of different protocols can also be counted normally
+
 3.3.0
 RMS client release
 
