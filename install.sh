@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.4.0"
+VERSION="3.4.1"
 DOWNLOAD_HOST="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/linux"
 ORIGIN_EXEC="rustminersystem-${VERSION}"
 
