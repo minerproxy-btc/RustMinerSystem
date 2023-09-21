@@ -69,15 +69,25 @@ Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOT
 对于支持的算法，相应的货币将随时热更新，客户端0将承担负担
 
 
-| arithmetic      | Support     | Relevant currency |
-| --------------- | ------------| ------------------|
-| SHA256          | ✅          | BTC、BCH...        
-| ETHASH          | ✅          | ETC、ETHW、ETHF、OCTA、ETC+ZIL、ETHW+ZIL、ETHF+ZIL
-| SCRYPT          | ✅          | LTC...
-| KHEAVYHASH      | ✅          | KASPA...
-| BLAKE2B         | ✅          | SC...
-| OCTOPUS         | ✅          | CFX...
-| RANDOMX       | ✅          | XMR、ZEPH
+  算法                支持的币种
+  SHA256              BTC、BCH        
+  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL
+  SCRYPT              LTC
+  KHEAVYHASH          KASPA
+  BLAKE2S             KDA
+  BLAKE2B             SC、HNS
+  OCTOPUS             CFX
+  DYNEXSOLVE          DNX
+  EAGLESONG           CKB
+  EQUIHASH            ZEN、ZEC
+  LBRY                LBC
+  X11                 DASH
+  PROGPOW             SERO
+  BLAKE3              ALPH
+  RANDOMX             XMR、ZEPH
+  KAWPOW              RVN
+  SHA512256D          RXD
+  AUTOYKOS2           ERG                
 
 
 
