@@ -167,6 +167,21 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.6.1
+Fixed bug in 3.6.0 where sometimes miners would not appear in the device list (without affecting normal use)
+
+3.6.0
+Added dnx and mallob proxy forwarding
+ Added DASH
+ Added CKB
+ Added SERO
+ Added ALPH
+ Added XMR
+ Added ZEPH
+ Added RVN
+ Added RXD
+ Added ERG
+
 3.5.0
 Re-reconstruct the pumping algorithm and the logic of the computing power statistics chart, and now you can draw accurate computing power regardless of any proportion, no longer because the larger the proportion is set, the more the less is pumped 
  
