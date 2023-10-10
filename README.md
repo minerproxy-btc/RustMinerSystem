@@ -167,6 +167,15 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.7.0
+Interface revision
+
+ Optimized for btc with small computing power Old firmware, machines that do not support cross-pool pumping will automatically pump from the same pool if they are configured with cross-pool addresses
+ Added custom pool wallet
+ Added preset pool address (hot update available at any time)
+ Added replication port function
+ New hardware monitoring
+
 3.6.1
 Fixed bug in 3.6.0 where sometimes miners would not appear in the device list (without affecting normal use)
 
