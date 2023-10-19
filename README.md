@@ -167,6 +167,13 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.7.1
+Enhancing performance optimization to significantly enhance hardware utilization and minimize memory and CPU usage.
+
+The access speed of devices can be significantly improved
+
+The performance monitoring has been optimized, resulting in more precise memory and CPU statistics.
+
 3.7.0
 Interface revision
 
