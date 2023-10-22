@@ -167,6 +167,11 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.7.2
+The gtv66 and e9pro batch models have been optimized with different firmwares, allowing both models to operate on the same port and resolving any relevant invalidities and related bugs. 
+
+The DNX pumping limit has been disabled for now, as neither the official nor the pool have released verification according to the published time. Pumping will be enabled once an announcement is made by the subsequent pool.
+
 3.7.1
 Enhancing performance optimization to significantly enhance hardware utilization and minimize memory and CPU usage.
 
