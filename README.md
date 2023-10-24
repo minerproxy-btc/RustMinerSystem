@@ -167,6 +167,9 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.7.3
+Added the option to enforce the distribution of success share switch, fixed the issue of inconsistent display and pool in pumping computing power, and resolved the problem of pure display where gtv66 shows computing power in p units at two locations.
+
 3.7.2
 Optimised gtv66 and e9pro batch models with different firmwares, now both models can run on the same port and solve the relevant invalid and all related bugs
 
