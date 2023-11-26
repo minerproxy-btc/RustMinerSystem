@@ -167,6 +167,25 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.8.0
+ - Added group controls
+ - Optimized the logic of displaying the miners' online time
+ - Disabled CAPTCHA
+ - Optimized okminer (the miners that cannot connect to okminer can access it through Rust)
+ - Added wallet blacklist
+ - Optimized the bug that caused the calculation deviation due to the fluctuation of the network (previously the probability of triggering was extremely low)
+ - Optimized the logic related to the RVN algorithm
+
+ Added DASH
+ Added CKB
+ Added SERO
+ Added ALPH
+ Added XMR
+ Added ZEPH
+ Added RVN
+ Added RXD
+ Added ERG
+
 3.7.3
 Added the option to enforce the distribution of success share switch, fixed the issue of inconsistent display and pool in pumping computing power, and resolved the problem of pure display where gtv66 shows computing power in p units at two locations.
 
