@@ -178,6 +178,26 @@ RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
 
 # 更新日志
 ```
+   3.8.0
+   增加了对 NEXA CLORE NEURAI NEOXA ZIL 
+   CLO UBQ EGAZ ELH AVS CAU PAC PWR 
+   BTN DUBX XPB REDEV2 RTH 
+   这些币种的支持
+
+   开放了群控功能
+
+   优化矿机显示在线时长逻辑
+
+   关闭了验证码
+
+   替okminer优化连不进来的矿机（无法连接okminer的矿机，可通过rust接入okminer）
+
+   增加钱包黑名单功能
+
+   优化了由于矿池网络波动导致算力计算偏差的bug（此前触发概率极低）
+
+   优化了RVN算法相关逻辑
+
    3.7.3
    增加是否强制下发成功份额开关
 
