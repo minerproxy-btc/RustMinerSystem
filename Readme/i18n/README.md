@@ -178,6 +178,10 @@ RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
 
 # 更新日志
 ```
+   3.8.2
+   增加了KLS！
+   优化CPU、内存占用！
+
    3.8.0
    增加了对 NEXA CLORE NEURAI NEOXA ZIL 
    CLO UBQ EGAZ ELH AVS CAU PAC PWR 

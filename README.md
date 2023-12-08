@@ -167,6 +167,11 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 
 # Version Log
 ```
+3.8.2
+Added KLS
+
+Optimize CPU and memory usage!
+
 3.8.0
  - Added group controls
  - Optimized the logic of displaying the miners' online time
