@@ -171,6 +171,17 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 Added KLS
 
 Optimize CPU and memory usage!
+3.9.0
+[Important update]
+Algorithm of all currencies has been optimized as a whole, which is more accurate and more resistant to fluctuations.
+Added BLOCX RTM RTC MECU MAXE NIKI SUBI MEWC NEVO currencies
+Added tcp/tls dual protocol port
+Fixed the problem of CPU abnormally rising when the direction of the pool is TLS and the pool network fluctuates.
+Support to set the commission ratio of all devices under the specified wallet to be adjusted separately (Device list page -> Wallet list page to set)
+Updated the computing power display, now the target computing power displays the complete computing power rather than the computing power after deducting the commission.
+Added historical delay chart of currency, port and device
+Added many detail adjustments to the 24H average line display page
+Optimized sc computing power display
 
 3.8.0
  - Added group controls
