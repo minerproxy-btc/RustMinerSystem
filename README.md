@@ -4,7 +4,7 @@
 
 # RustMinerSystem
 
-<h2>A mine pool level operation and maintenance tools👍 </h2>
+<h2>一款矿池级别的运维工具👍 </h2>
 
 <img src="/image/logo.png" alt="Logo" width="170">
 
@@ -14,39 +14,39 @@
 
 <a href="https://github.com/minerproxy-btc/RustMinerSystem">English</a>｜<a href="https://github.com/minerproxy-btc/RustMinerSystem/tree/main/Readme/i18n">简体中文</a>
 
-The powerful and experienced monitoring and recording system can solve the abnormal situation of the farm immediately.
+强大且经验丰富的监控和记录系统可以立即解决矿场异常情况。
 
-The hash rate statistics at the level of mining pool, and the hash rate of any currency can be seen at a glance
+在矿池级别上统计哈希率，并可以一目了然地查看任何货币的哈希率。
 
-Automatically adjust the working mode and data flow according to the terminal equipment to avoid highly ineffective task sharing
+根据终端设备自动调整工作模式和数据流量，避免高度低效的任务共享。
 
-The active defense and filtering system improves the security of the environment and finds hazards in time.
+主动防御和过滤系统提高了环境的安全性并及时发现危险。
 
-The front-end client has high-performance TCP integration and compression technology. No matter how far the farm is from the mining pool, they can effectively reduce farm delay and prevent all middlemen from attacking.
+前端客户端具有高性能的TCP集成和压缩技术。无论矿场距离矿池有多远，它们都可以有效地减少矿场延迟并防止所有中间人攻击。
 
-The commission system compatible with various algorithms can reasonably improve the mine profits.
+兼容各种算法的佣金系统可以合理地提高矿场利润。
 
-Built-in algorithm engines can update popular currencies without heating.
+内置算法引擎可以更新流行货币而不会产生热量。
 
-The dashboard is perfectly compatible with various devices, with PC, MOBILE, and PAD at a glance.
+仪表盘完美兼容各种设备，PC、MOBILE、PAD一目了然。
 
-Perfect control logic, even if the service charge is turned on, the mine pool end will not show that the equipment is offline.
+完美的控制逻辑，即使开启了服务费，矿池端也不会显示设备离线。
 
-Based on the development of Rust, efficient language brings unparalleled performance.
+基于Rust的开发，高效的语言带来无与伦比的性能。
 
-High-performance, next-generation operation and maintenance experience, which is a professional farm operation and maintenance system-RustMinerSystem brought by the top R&D team and RUST experts in Silicon Valley
+高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-RustMinerSystem
 
-(Partial Preview)
+（部分预览）
 
 <img src="/image/1.png" alt="Logo" width="670">
 
 </div>
 
-# Free customized version
+# 免费定制专属版本
 
-[Click for free customized version description](#dingzhi)
+[点击查看免费定制专属版本说明](#dingzhi)
 
-# Join the discussion group
+# 加入聊天组
 
 Telegram：<a href="https://t.me/RustMinerSystem">https://t.me/RustMinerSystem</a>
 
@@ -56,32 +56,44 @@ Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOT
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
-# Special thanks
+# 特别感谢
 
 <img src="/image/icon-logo-blue.png" alt="Logo" width="100">
 
 <img src="/image/poolin.svg" alt="Logo" width="100">
 
-<p>Thanks for the technical support provided by the mine pool😊</p>
+<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
 
-# Supported algorithms
+# 支持的算法
 
-For the supported algorithm, the corresponding currency will be updated without heat at any time, and the client 0 will bear the burden
-
-
-| arithmetic      | Support     | Relevant currency |
-| --------------- | ------------| ------------------|
-| SHA256          | ✅          | BTC、BCH...        
-| ETHASH          | ✅          | ETC、ETHW、ETHF、ETC+ZIL、ETHW+ZIL、ETHF+ZIL
-| SCRYPT          | ✅          | LTC...
-| KHEAVYHASH      | ✅          | KASPA...
-| BLAKE2B         | ✅          | SC...
-| OCTOPUS         | ✅          | CFX...
+对于支持的算法，相应的货币将随时热更新，客户端0将承担负担
 
 
-# Service Agreement
+  算法                支持的币种
+  SHA256              BTC、BCH        
+  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL
+  SCRYPT              LTC
+  KHEAVYHASH          KASPA
+  BLAKE2S             KDA
+  BLAKE2B             SC、HNS
+  OCTOPUS             CFX
+  DYNEXSOLVE          DNX
+  EAGLESONG           CKB
+  EQUIHASH            ZEN、ZEC
+  LBRY                LBC
+  X11                 DASH
+  PROGPOW             SERO
+  BLAKE3              ALPH
+  RANDOMX             XMR、ZEPH
+  KAWPOW              RVN
+  SHA512256D          RXD
+  AUTOYKOS2           ERG                
 
-RustMinerSystem is subject to the supervision of Hong Kong laws. Please note that the legal requirements of various countries/regions may restrict such products and services. Therefore, this product and service as well as some functions may not be available or may be restricted in some jurisdictions or regions or some users. You should understand and comply with the local laws and regulations. If you use this product, the default representative accepts the above license. If the legal problems caused by this product are irrelevant to this product.
+
+
+# 服务协议
+
+RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
 
 
 
@@ -94,22 +106,22 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 [stars-shield]: https://img.shields.io/github/stars/minerproxy-btc/RustMinerSystem.svg?style=flat
 [stars-url]: https://github.com/minerproxy-btc/RustMinerSystem/stargazers
 
-# Installation 
+# 安装 
 
 1. **Install**
 
-   Select your applicable operating system
+   选择适合您的操作系统
 
    <details open>
    <summary>Linux</summary>
 
-   > Run the following shell instructions to run the toolkit
+   > 运行以下shell指令以运行工具包
    >
    > ```sh
    >  bash <(curl -s -L https://github.com/minerproxy-btc/RustMinerSystem/raw/main/install.sh)
    > ```
    >
-   > After running successfully, you will see the following menu.
+   > 成功运行后，您将看到以下菜单。
    >
 
    </details>
@@ -117,498 +129,565 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
    <details open>
    <summary>Windows</summary>
 
-   > Please download the specified version directly from the Windows directory of this project:
+   > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
    > https://github.com/minerproxy-btc/RustMinerSystem/tree/main/windows
    > ```
    >
 
-   To start the Windows version, double-click it. 
- 
-   Linux After the script is run, enter 1 or 2 to select the installation menu language. The following interface is displayed
+   </details>
 
-   ---------- English Menu ----------
-   1. Install
-   2. Update
-   3. Start software
-   4. Stop software
-   5. Restart software
-   6. Modify startup port
-   7. Remove Linux system connection limit (requires server restart to take effect)
-   8. Set automatic startup
-   9. Disable automatic startup...
-   10. Check program running status
-   11. View error log
-   12. Clear log files
-   13. View current WEB access port
-   14. Uninstall
-   15. Reset account password
-   16. Install specified version
+   Windows版本直接双击启动即可。
+
+   Linux运行脚本后，输入1或2选择安装菜单语言, 随后弹出如下界面
+
+   ---------- 中文菜单 ----------
+   1. 安装
+   2. 更新
+   3. 启动软件
+   4. 停止软件
+   5. 重启软件
+   6. 修改启动端口
+   7. 解除Linux系统连接数限制（需要重启服务器生效）
+   8. 设置开机启动
+   9. 关闭开机启动
+   10. 查看程序运行状态
+   11. 查看错误日志
+   12. 清理日志文件
+   13. 查看当前WEB访问端口
+   14. 卸载
+   15. 重置认账号密码
+   16. 安装指定版本
    [1-16]：
    
    <br>
 
-   Enter 1 to install  
-   
-   The following message is displayed after the installation is complete
+   输入1安装即可
+
+   安装完成后会输出以下提示
 
    |----------------------------------------------------------------|<br>
-      Program started successfully, WEB access port is21441, Default account is qzpm19kkx default password is xloqslz913<br>
-      If you are using the default password and port, please change the account password and web access port in a timely manner through the web settings.<br>
+      程序启动成功, WEB访问端口4360, 默认账号 qzpm19kkx 默认密码 xloqslz913<br>
+      如果您是默认密码及默认端口, 请及时在网页设置中修改账号密码及web访问端口。<br>
    |----------------------------------------------------------------|
 
    <br>
 
-   If the preceding information is displayed, the installation is successful. Enter the server IP address: port number in the browser to access the background.
+   看到以上提示代表安装已成功, 在浏览器内输入服务器IP:端口号, 即可访问后台。
 
-   </details>
-
-
-# Version Log
+# 更新日志
 ```
-3.8.2
-Added KLS
+   3.9.2已发布
+   增加pyi
+   修复如果代理矿池是ip+ssl+假证书的情况下，无法连接的问题
+   页面细节调整
 
-Optimize CPU and memory usage!
-3.9.0
-[Important update]
-Algorithm of all currencies has been optimized as a whole, which is more accurate and more resistant to fluctuations.
-Added BLOCX RTM RTC MECU MAXE NIKI SUBI MEWC NEVO currencies
-Added tcp/tls dual protocol port
-Fixed the problem of CPU abnormally rising when the direction of the pool is TLS and the pool network fluctuates.
-Support to set the commission ratio of all devices under the specified wallet to be adjusted separately (Device list page -> Wallet list page to set)
-Updated the computing power display, now the target computing power displays the complete computing power rather than the computing power after deducting the commission.
-Added historical delay chart of currency, port and device
-Added many detail adjustments to the 24H average line display page
-Optimized sc computing power display
+   3.9.1
+   增加BEL 
+   修复了BLOCX无法在Mining-Dutch矿池工作的bug 创建端口时，币种选择器改为可搜索，方便使用 
+   均线图表现在跟随小时平均组件设置显示 
+   修复了一处接口报错 
 
-3.8.0
- - Added group controls
- - Optimized the logic of displaying the miners' online time
- - Disabled CAPTCHA
- - Optimized okminer (the miners that cannot connect to okminer can access it through Rust)
- - Added wallet blacklist
- - Optimized the bug that caused the calculation deviation due to the fluctuation of the network (previously the probability of triggering was extremely low)
- - Optimized the logic related to the RVN algorithm
+   3.9.0
+   [重要更新] 
+   全币种算法整体优化, 抗波动性更强更精准
+   增加了BLOCX RTM RTC MECU MAXE NIKI SUBI MEWC NEVO币种 
+   增加了tcp/tls双协议端口 
+   修复了矿池方向是TLS并且池子网络波动的情况下, 导致CPU异常升高的问题 
+   支持设置指定钱包下所有设备的手续费比例单独调整（设备列表页 -> 钱包列表页面进行设置） 
+   更新了算力显示，现在目标算力显示的是完整算力而不是扣除手续费之后的算力
+   增加币种、端口、设备的历史延迟图表
+   增加了24H平均线显示 页面诸多细节调整 优化sc算力显示
 
- Added DASH
- Added CKB
- Added SERO
- Added ALPH
- Added XMR
- Added ZEPH
- Added RVN
- Added RXD
- Added ERG
+   3.8.2
+   增加了KLS！
+   优化CPU、内存占用！
 
-3.7.3
-Added the option to enforce the distribution of success share switch, fixed the issue of inconsistent display and pool in pumping computing power, and resolved the problem of pure display where gtv66 shows computing power in p units at two locations.
+   3.8.0
+   增加了对 NEXA CLORE NEURAI NEOXA ZIL 
+   CLO UBQ EGAZ ELH AVS CAU PAC PWR 
+   BTN DUBX XPB REDEV2 RTH 
+   这些币种的支持
 
-3.7.2
-Optimised gtv66 and e9pro batch models with different firmwares, now both models can run on the same port and solve the relevant invalid and all related bugs
+   开放了群控功能
 
-The DNX pumping limit has been disabled for now, as neither the official nor the pool have released verification according to the published time. Pumping will be enabled once an announcement is made by the subsequent pool.
+   优化矿机显示在线时长逻辑
 
-3.7.1
-Enhancing performance optimization to significantly enhance hardware utilization and minimize memory and CPU usage.
+   关闭了验证码
 
-The access speed of devices can be significantly improved
+   优化okminer（无法连接okminer的矿机，可通过rust接入okminer）
 
-The performance monitoring has been optimized, resulting in more precise memory and CPU statistics.
+   增加钱包黑名单功能
 
-3.7.0
-Interface revision
+   优化了由于矿池网络波动导致算力计算偏差的bug（此前触发概率极低）
 
- Optimized for btc with small computing power Old firmware, machines that do not support cross-pool pumping will automatically pump from the same pool if they are configured with cross-pool addresses
- Added custom pool wallet
- Added preset pool address (hot update available at any time)
- Added replication port function
- New hardware monitoring
+   优化了RVN算法相关逻辑
 
-3.6.1
-Fixed bug in 3.6.0 where sometimes miners would not appear in the device list (without affecting normal use)
+   3.7.3
+   增加是否强制下发成功份额开关
 
-3.6.0
-Added dnx and mallob proxy forwarding
- Added DASH
- Added CKB
- Added SERO
- Added ALPH
- Added XMR
- Added ZEPH
- Added RVN
- Added RXD
- Added ERG
+   修复etc抽水算力显示和矿池不一致问题（纯显示问题）
+   
+   修复gtv66两个地方展示的算力是以p为单位的问题（纯显示问题）
+
+  3.7.2
+   优化gtv66和e9pro全批次不同固件的机型，现在这两类机型都可以跑同一个端口并且解决掉了相关的无效以及相关的所有BUG
+
+   解禁了DNX抽水限制, 但是目前不要抽水，因为官方以及矿池并未按照公布时间进行解除验证, 等后续矿池公告以后再开启抽水
+
+   3.7.1
+   性能优化, 大幅提高硬件利用率,  降低内存以及cpu的占用
+
+   大幅提升设备接入速度
+
+   优化性能监控，更准确的内存以及cpu统计
+
+   3.7.0
+   界面改版
+
+   优化了btc小算力古老固件, 不支持跨池抽水的机器如果配置了跨池地址
+   则这些机器自动同池抽水
+
+   增加自定义矿池钱包
+
+   增加预置矿池地址（可随时热更新）
+
+   增加复制端口功能
+
+   全新的硬件监控
+
+   3.6.1
+   修复了3.6.0的显示bug, 有时候设备列表内的矿机不显示（不影响正常使用）
+
+   3.6.0
+   增加了后台https访问, 可在设置 -> https后台访问中设置, 
+   或着从安装脚本中进行设置, 设置完后需要重启软件, 重启后需要使用指定协议(http或https访问)
+
+   增加掉线提醒
+
+   增加ip黑名单功能
+
+   修复钱包替换功能无法清空的bug
+
+   对已替换的钱包，在设备列表里给出钱包重定向的提示
+
+   设备列表页的时间算力统计，现在可根据自己的选择统计任意时间段的算力数据
+
+   增加了kas、eth的算力保护开关, 可自行斟酌在编辑端口中进行开启或关闭
+   关闭算力保护后, 可抽到精准算力, 但是不对客户算力进行保护
+
+   增加了eth并发优化的开关, gtv66机型需要关闭此开关, 默认开启
+
+   稳定性提升 优化了极小概率矿池和矿机同时发生不稳定的情况下，导致连接数爆炸的问题
+
+   修复了一个关联rms的小bug，修复编辑rust端口的时候导致rms矿机半天进不来的问题
+
+   增加了所有ip访问的日志
+
+   端口日志以及设备日志里的ip现在可以点击进行相关操作
+
+   增加了更多的提示
+
+   大幅优化页面流畅度
+
+   页面细节优化
+
+   [rms更新]
+   更新了rms的安装脚本，更广泛的兼容各种盒子
+
+   rms更新，修复推送地址前如果有代理，如果rust关闭但是请求没有响应时启动不起来的bug
+
+   [币种更新]
+   增加dnx以及mallob的代理转发
+
+   增加DASH
+
+   增加CKB
+
+   增加SERO
+
+   增加ALPH
+
+   增加XMR
+
+   增加ZEPH
+
+   增加RVN
+
+   增加RXD
+
+   增加ERG
 
 3.5.0
-Re-reconstruct the pumping algorithm and the logic of the computing power statistics chart, and now you can draw accurate computing power regardless of any proportion, no longer because the larger the proportion is set, the more the less is pumped 
- 
-Optimized the ks3 machine produced by ants 
- 
-Added the kenc protocol as well as the socks5(next version open socks5) protocol, which can now be opened directly within rust 
- 
-Increased CKB 
- 
-Added ZEN 
- 
-Added HNS 
- 
-Added LBC 
- 
-Fixed some bugs where the power statistics were not cleaned up due to upstream issues 
- 
-Fixed a bug where port exceptions were not cleaned up after port conflicts 
- 
-Turn off animation effects for smoother pages 
- 
-Added a disconnected reconnection mechanism, and now frequently disconnected machines can also draw relevant computing power 
- 
-The only inefficiencies are optimized
+优化抽水算法及算力统计图表逻辑, 现在不管任何比例都能抽到精准算力, 不再因为比例设置越大, 少抽的越多
+
+优化了蚂蚁出产的ks3机器
+
+增加了kenc协议以及socks5(下版本开放socks5)协议, 现在可以直接在rust内开启这些协议
+
+增加了CKB
+
+增加了ZEN
+
+增加了HNS
+
+增加了LBC
+
+修复了一些因为上游问题导致的算力统计没有清理掉的bug
+
+修复了端口冲突后, 端口异常报错没有被清理掉的bug
+
+关闭了动画效果 页面更流畅
+
+增加了断线重连机制, 现在频繁断开的机器也能抽到相关算力
+
+优化了仅有的一些无效率
 
 3.4.1
-[Important Update] Fixed a critical BUG where BTC was not pumping enough water
+[重要更新] 修复了BTC抽水不够的严重BUG
 
 3.4.0
-Rebuilt the computing power statistics, and now the statistical accuracy of computing power in rust has been greatly improved 
- 
-Thanks to the reconstructed computing power statistics, btc's pumping is now more accurate 
- 
-Added replacement wallet function 
- 
-The performance of KA0 1 2 3 3l in the fish pond is optimized, and now the fish pond can also draw a relatively large amount of computing power 
- 
-Added OCTA support 
- 
-Added KDA support 
- 
-Equipped with cfx computing unit 
- 
-ethash algorithm currency, such as octa, etc., mining machine currency of different protocols work on the same port, and the computing power of different protocols can also be counted normally
+重构了算力统计, 现在rust内算力统计精度大幅提升
+
+得益于重构的算力统计, 现在btc的抽水更准确了
+
+增加了替换钱包功能
+
+优化了KA0 1 2 3 3l在鱼池内抽水的表现, 现在鱼池也可以抽到较为大量的算力了
+
+增加了OCTA的支持
+
+增加了KDA的支持
+
+装配了cfx的算力计算单位
+
+octa、etc等ethash算法币种, 不同协议的矿机币种在同一个端口工作，也可正常统计不同协议的算力了
 
 3.3.0
-RMS client release
+RMS客户端发布
 
-Fixed a bug where configuration could not be imported
+修复无法导入配置的bug
 
-Added program update log
+增加程序更新日志
 
-Fixed a bug where hot update ratio would not take effect
+修复了热更新比例不生效的bug
 
-Fixed a bug where setting the mining machine pumping alone would not take effect
+修复了单独设置矿机抽水不生效的bug
 
-Improved the classification display of the port list and added the display of all ports
+优化端口列表分类显示，增加了所有端口的显示
 
-Greatly optimize the ltc pumping accuracy, improve the calculation and pumping accuracy of other currencies
+大幅优化ltc抽水精准度，提升其他币种计算以及抽水精准度
 
-Fixed an issue where some etc models could not connect
+修复了部分etc机型无法连接的问题
 
 3.2.4
-Significantly improve the accuracy of power statistics and pumping for all currently supported currencies
+大幅提升当前支持的所有币种的算力统计及抽水的精准度
 
 3.2.3
-Completely solved kas memory burst problem
+彻底解决kas爆内存问题
 
 3.2.2
-Fixed kas slow burst memory bug
+修复了kas缓慢爆内存的bug
 
 3.2.1
-Fixed a high invalidity bug caused by the same wallet without the miner name configured
+修复了多台设备相同钱包但没有配置矿机名称导致的高无效bug
 
 3.2.0
-Added support for k1 mining pools 
- 
-The connection count of ant mining pool is optimized 
- 
-Added ports for kas series models 
- 
-Complete lifting of cross-pond pumping restrictions 
- 
-The configuration of the RMS service is enabled 
- 
-The accuracy of pumping has been optimized, and now the machine with large computational power fluctuations can also pump a more accurate proportion 
- 
-Added the option to remove pumping from separate miners 
- 
-Continuously optimize computing power statistics
+增加了对k1矿池的支持
+
+优化了蚂蚁矿池的连接次数统计
+
+增加了kas系列机型币种对应的端口
+
+彻底解除跨池抽水限制
+
+开放了RMS服务的配置
+
+优化了抽水的精准度，现在大算力波动的机器也能抽到较为精准的比例了
+
+增加了清除单独矿机抽水的选项
+
+持续优化算力统计
 
 3.1.0
-Tuning the performance of new algorithms under ETC algorithm
+调优ETC算法下新算法的表现
 
 3.0.0
-Reconfigured the pumping algorithm, and now all currencies can pump accurately to the thousandth digit 
- 
-In loss-prone mining pools and machines, it is now possible to ensure that the end customer does not reduce computing power more than the set percentage 
- 
-The e9pro is perfectly optimized 
- 
-Refactored the interface, added wallet list, device list filtering criteria and so on 
- 
-Added the setting of single miner pumping 
- 
-Optimized the power statistics, now the power statistics are no longer messy 
- 
-Optimized invalid
+重构了抽水算法, 现在所有币种都可以精准到千分位的抽水了
+
+在容易发生损耗的矿池和矿机, 现在能确保终端客户减少的算力不会大于设置的比例
+
+ks0、ks1、ks2这种机器，基于现有算法保证客户最小的算力损耗，不同矿池可能抽到的算力也不同,  通常不会抽到设置的百分比算力，为了保证客户尽量少损耗只能这样啦
+
+e9pro完美优化, 且rust内可计算出与矿池一致的算力
+
+重构了界面, 增加了钱包列表、设备列表筛选条件等等
+
+增加了单矿机抽水的设置
+
+优化了算力统计, 现在算力统计不再凌乱
+
+优化了无效
+
+修改了logo
 
 2.1.0
-Completely solve the jam
+彻底解决卡死
 
 2.0.9
-Solve the stuck problem  
+解决卡死问题
 
-Optimal pumping
+优化抽水
+
 
 2.0.8
-Two pumping algorithms are combined  
+合并了两种抽水算法
 
-Fix suspended animation again
+再次修复假死
 
-2.0.7 
-Fixed an issue with version 6 suspended animation 
- 
-The problem of insufficient computing power in equilibrium mode is optimized
+2.0.7
+修复了.6版本假死的问题
+
+优化了均衡模式下的算力抽不够的问题
 
 2.0.6
-Optimized power compensation, the power compensation option is now hidden, and power is allocated to all miners by default 
- 
-Optimized E9pro, now all mining pools can run full E9pro, and the calculation of e9pro in rust is accurate and consistent with the mining pool 
- 
-Added a pumping mode 
- 
-Added a mode for connecting mine pools 
- 
-Optimized mining machine with high computing power
+优化了算力补偿, 现在隐藏掉了算力补偿的选项, 算力默认分配给所有矿机
 
+优化了E9pro, 现在所有矿池的E9pro都可以跑满了, 且rust里计算的e9pro算力精准的与矿池一致
+
+增加了一种抽水的模式
+
+增加了一种连接矿池的模式
+
+优化了大算力的矿机
 
 2.0.5
+[重要更新] 修复了RUST在windows下假死的bug
 
-[Important Update] Fixed a bug where RUST was suspended in windows 
- 
-Fixed high inefficiency of kas Glacier and other chip machines 
- 
-Compatible with the etc gtv66 chip, improve the etc computing power calculation 
- 
-Fixed some bugs in power statistics
+修复了kas冰河以及其他芯片机的高无效
 
-2.0.4 
-The default mode of computing power compensation is optimized to further reduce inefficiency 
- 
-Optimized the performance of kaspa under different mining pool protocols, lolminer and gminer now work in all mining pools 
- 
-Optimized the calculation logic of the etc related algorithm, and now the calculation and pumping are more accurate 
- 
-The underlying optimization improves the hardware utilization 
- 
-Optimized share display bug 
- 
-Optimize the home active distribution list
+兼容了etc gtv66芯片机，完善了etc的算力计算
+
+修复了一些算力统计的bug
+
+2.0.4
+优化了算力补偿默认模式,  进一步降低了无效率
+
+优化了kaspa在不同矿池协议下的表现, 现在lolminer和gminer可以在所有矿池正常工作了
+
+优化了etc相关算法的算力计算逻辑, 现在计算和抽水更精准了
+
+底层优化,  提升了硬件利用率
+
+优化份额显示bug
+
+优化首页活跃分布列表
 
 2.0.3
-Fixed a serious BUG caused by disconnection reconnection mechanism
-
+修复了断线重连机制导致的严重BUG
 
 2.0.2
-Fixed a software crash caused by concurrency  
+修复了一个并发导致的软件崩溃
 
-Statistical optimization of computing power
+算力统计优化
 
-2.0.0 
-Multiple client details optimization 
- 
-Now the pumping accuracy is MAX 
- 
-Added power compensation configuration, now the loss of power compensation can be configured on the port 
- 
-The mechanism of re-connection of broken lines is added to ensure that the mining machine with frequent disconnection can also pump normally 
- 
-Fixed kas high invalidation bug 
- 
-The underlying algorithm engine was updated and reconstructed, and began to rapidly support small coins 
- 
-Added SC currency 
- 
-Added CFX currency 
- 
-Fixed an issue where LTC was highly ineffective in viabtc 
- 
-Fixed an issue with inaccurate LTC power display 
- 
-Fixed LTC computing power loss problem 
- 
-Remove the limit on the number of pumping wallets 
- 
-Lifting cross-pond pumping restrictions 
- 
-Optimized port logs, added program runtime logs, and enabled device logs
 
-The low-level optimization avoids several bugs that are easy to cause program crashes
+2.0.0
+多处客户端细节优化
 
+现在抽水精准度MAX
+
+增加算力补偿配置, 现在端口上可以配置损耗的算力补偿
+
+增加了断线重连机制，最大限度保证频繁掉线的矿机也可以正常抽水
+
+修复kas高无效的bug
+
+算法引擎底层更新重构, 开始飞速支持小币种了
+
+增加了SC币种
+
+增加了CFX币种
+
+修复了LTC在viabtc内高无效的问题
+
+修复LTC算力显示不准确的问题
+
+修复了LTC算力损耗大的问题
+
+解除配置抽水钱包数量限制
+
+解除跨池抽水限制
+
+优化了端口日志，增加了程序运行时日志, 开启了设备日志
+
+底层优化, 避免了几处容易引发程序崩溃的bug
 
 1.0.4
-Optimized the efficiency of some BTC models, optimized the rejection rate of viabtc and ant mine pool
+优化了一些BTC机型的效率，优化了viabtc以及蚂蚁矿池的拒绝率
 
-optimized a detail bug, and further reduced the inefficiency
+优化了一个细节bug, 无效率进一步降低
 
 1.0.3
-Performance optimization 
- 
-Added configuration import and export in json, kt, and excel formats
+性能优化
+
+增加了json、kt、excel格式的配置导入导出
 
 1.0.2
-The underlying reconstruction optimizes the processing and statistics of multiple links 
- 
-It is deeply optimized for e9pro 
- 
-Open error log
+底层重构，优化了多链接的处理与统计
+
+针对e9pro进行了深度优化
+
+开放错误日志
 
 1.0.1
-Fixed a bug caused by links
+修复了链接导致的bug
 
 1.0.0
-Open test
+开放性测试
 
 0.9.999
-A serious security breach was fixed
+修复了一个严重的安全漏洞
 
-Optimized commission logic for all currencies
+优化了所有币种的手续费逻辑
 
 0.9.99
-Optimize BTC, LTC
+优化BTC, LTC
 
-Optimized mean delay display is not accurate
+优化平均延迟显示不准确
 
 0.9.98
-Optimize the bottom layer and reduce losses
+优化底层, 降低损耗
 
 0.9.97
-Fixed a serious bug in program pseudo death
+修复了程序假死的严重BUG
 
 0.9.96
-The perfect BTC@KAS
+完美的 BTC@KAS
 
 0.9.95
-fix...
+修复了一些八阿哥
 
 0.9.94
-fix...
+修复了一些八阿哥
 
 0.9.93
-fix...
+修复了一些八阿哥
 
 0.9.92
-Fixed a bug where the hot update wallet would cause the application to crash. Fixed some kernel kas connection issues 
- 
-Fixed ltc small power display bug
+修复了部分内核kas连不进来的问题
+
+完善了ltc小算力显示的bug
 
 0.9.91
-Fixed a bug where the hot update wallet caused the program to crash
+修复了热更新钱包导致程序崩溃的bug
 
-Fixed kas not working properly due to changes in the previous version
+修复了因为上个版本改动导致的kas无法正常工作的问题
 
 0.9.9
-Optimized a lot of details
+优化了很多细节
 
-Optimized Yami equipment
+优化的亚米设备
 
-Further reducing the probability of ineffectiveness (although already very low)
+进一步降低无效的概率（尽管已经很低）
 
-Optimized memory and CPU usage
+优化的内存和CPU使用率
 
 0.1.4
-Optimize e9 and e9pro
+优化e9以及e9pro
 
 0.1.3
-Optimizing Antminer s17
+优化了蚂蚁s17
 
 0.1.2
-Fixed a serious issue of task chaos for multiple devices under Rust
+修复了Rust下多台设备任务混乱的严重问题
 
-Fixed issue where kas was unable to receive tasks
+修正了kas无法接收任务的问题
 
 0.1.0
-Release of internal test version
+内部测试版本
 ```
 
-# Help
+# 帮助
 
 <span id="dingzhi"></span>
 
-# Customize the version description
+# 定制专属版本说明
 
-1. Join a chat group <a href="https://t.me/RustMinerSystem">https://t.me/RustMinerSystem</a>
-2. Please organize the following format data and send it to the group master or administrator:
+1. 加入聊天群组 <a href="https://t.me/RustMinerSystem">https://t.me/RustMinerSystem</a>
+2. 请整理以下格式数据发给群主或管理员：
 
-Example:  
+示例：
 
-Software name  
+软件名称
 
-Project address  
+项目地址
 
-logo and Introduction
-
-—————————————————
-
-currency: BTC,
-
-Built-in commission rate: ratio
-
-Built-in anonymous wallet: xxxxxxxxxxxxxx
-
-Built-in subaccount: xxxxxxxxxxxx
-
-The device name is displayed in the mine pool: xxxxx
+logo及简介
 
 —————————————————
 
-currency: ETC
+币种: BTC,
 
-Built-in commission rate: ratio
+内置手续费比例: 百分之1
 
-Built-in anonymous wallet: xxxxxxxxxxxxxx
+内置匿名钱包： xxxxxxxxxxxxxx
 
-Built-in subaccount: xxxxxxxxxxxx
+内置子账号: xxxxxxxxxxxx
 
-The device name is displayed in the mine pool: xxxxx
+矿池内显示设备名称: xxxxx
 
 —————————————————
 
-currency: ETC+ZIL
+币种: ETC
 
-Built-in commission rate: ratio
+内置手续费比例: 百分之1
 
-Built-in anonymous wallet: etc匿名钱包.zil匿名钱包
+内置匿名钱包： xxxxxxxxxxxxxx
 
-Built-in subaccount: xxxxxxxxxxxx
+内置子账号: xxxxxxxxxxxx
 
-The device name is displayed in the mine pool: xxxxx
+矿池内显示设备名称: xxxxx
+
+—————————————————
+
+币种: ETC+ZIL
+
+内置手续费比例: 百分之1
+
+内置匿名钱包： etc匿名钱包.zil匿名钱包
+
+内置子账号: xxxxxxxxxxxx
+
+矿池内显示设备名称: xxxxx
 
 —————————————————
 
 ......
 
-The built-in service fee pool address is the same as the target address in the software by default, and the service fee will be drawn to the target pool address of the port. Each currency needs to provide an anonymous wallet and a sub-account. For a mine pool like BTC, which does not support anonymous mining, only a sub-account can be provided to ensure that it can work normally in any supported type of mine pool 
- 
-If you do not make the installation link, project home page, etc., you can contact the group master or administrator for free hosting services
+内置手续费矿池地址默认与软件内目标地址一致, 手续费会抽至端口的目标矿池地址,  每个币种需要提供一个匿名钱包和一个子账号,  类似BTC这种不支持匿名挖矿的矿池, 只提供子账号即可, 以确保在任意支持类型的矿池中可以正常工作
+
+如果不会自己制作安装链接，项目首页等，可联系群主或管理员进行免费托管服务
 
 <span id="e9"></span>
 
-# Some optimization measures for E9pro
+# 针对E9pro的一些优化措施
 
-- In the background configuration of the miner, only one address configuration information is retained, and the configurations of 2 and 3 are deleted
+- 矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置
 
 <span id="diaoxian"></span>
 
-# Some mining pools will count the miner's offline situation, how to make the equipment in the mining pool do not appear offline records?
+# 一些矿池会统计矿机掉线情况, 如何使矿池内设备不出现掉线记录？
 
-antpool or poolin, for example, will collect data on the disconnection of each device. If you do not want to see this information in the mining pool, edit the port, find the computing power compensation, and select the second mode
+例如antpool或poolin, 会统计每台设备的掉线情况, 如果不想在矿池内看到这些信息, 请编辑端口, 找到算力补偿, 选择第二个模式即可
 
-# Port import and export
+# 端口导入、导出
 
-You can import and export ports using the following three methods: Import an EXCEL file. If you need to import ports using Excel files, download and refer to the Excel template file:
+三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:
 
-<a href="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">Download Excel Templates</a>
+<a href="https://github.com/minerproxy-btc/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a>
 
 # Other issues
 
-This is a free software, which does not charge any fees. It only takes 0.2% of the computing power of the terminal equipment from the technical point of view as a technical return.
-
+这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。
