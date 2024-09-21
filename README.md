@@ -39,9 +39,7 @@
 
 高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-RustMinerSystem
 
-（部分预览）
 
-<img src="/image/1.png" alt="Logo" width="670">
 
 </div>
 
